@@ -1,0 +1,49 @@
+p { font-family: arial, helvetica, sans-serif; color: black; font-size: 12px; line-height: 14px; }
+.text { font-family: arial, helvetica, sans-serif; color: black; font-size: 12px; line-height: 14px; }
+.boldtext {
+	font-family: arial, helvetica, sans-serif;
+	color: black;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight : bold;
+}
+.bluetext {
+	font-family: arial, helvetica, sans-serif;
+	color: Navy;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight : bold;
+}
+.whitehead {
+	font-family: arial, helvetica, sans-serif;
+	color: White;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight : bold;
+}
+.style1 {
+	font-size: 10px
+}
+.style5 {
+	font-size: 14px
+}
+.style6 {
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style7 {
+	color: #FF0000
+}
+.style10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.style11 {
+	color: #0B4769
+}
+
+body 
+{
+	margin-left: 5px;
+	margin-top: 5px;
+}
